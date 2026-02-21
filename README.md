@@ -27,6 +27,4 @@ Funcionalidades:
 *Menú de pausa
 
 Autor
-Gabriel Sales
-Gabriel Sales
-Proyecto académico – Programación en Java
+Gabriel Sales – Programación en Java
