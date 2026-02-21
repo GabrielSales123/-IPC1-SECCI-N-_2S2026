@@ -8,7 +8,7 @@ Cómo ejecutar el proyecto:
 *Ejecutar la clase principal (Main.java).
 
 Descripción: Este proyecto consiste en el desarrollo de un juego de tablero programado en Java.
-Un divertido juego donde el jugador desplazarse dentro de una matriz bidimensional, recolectar premios y evitar obstáculos. 
+Un divertido juego donde el jugador debe desplazarse dentro de una matriz bidimensional, recolectar premios y evitar obstáculos. 
 El sistema incluye generación aleatoria del tablero, detección de colisiones y teletransportación en los límites.
 
 Tecnologías utilizadas:
